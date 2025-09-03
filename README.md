@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Ashutosh Singh Chaudhari 👋
 
-<!--
-**ashutoshtrueops1-max/ashutoshtrueops1-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud & DevOps Engineer | AWS | Terraform | CI/CD | Kubernetes | SRE  
 
-Here are some ideas to get you started:
+💡 I specialize in:  
+- AWS (EC2, VPC, RDS, IAM, Route53, Auto Scaling, CloudWatch)  
+- Infrastructure as Code (Terraform, Ansible, CloudFormation)  
+- CI/CD Pipelines (Jenkins, GitHub Actions, Nexus, Maven)  
+- Containers (Docker, Kubernetes EKS, Helm basics)  
+- Monitoring & Logging (ELK, Datadog, Pingdom)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Certifications**:  
+- AWS Certified Solutions Architect – Associate  
+- DevOps Certification – DevOps Academy  
+- Terraform Associate (In Progress)  
+
+## 🔧 Featured Projects
+- [Terraform AWS VPC + RDS + ALB](https://github.com/ashutoshchaudhari/terraform-aws-vpc-rds-alb)  
+- [Jenkins CI/CD Pipeline](https://github.com/ashutoshchaudhari/jenkins-ci-cd-pipeline)  
+- [Kubernetes EKS Deployment](https://github.com/ashutoshchaudhari/kubernetes-eks-deployment)  
+- [ELK Monitoring Dashboard](https://github.com/ashutoshchaudhari/elk-monitoring-dashboard)  
+
+📫 **Connect with me**:  
+- LinkedIn: [linkedin.com/in/ashutoshchaudhari](https://linkedin.com/in/ashutoshchaudhari)  
+- Email: ashutosh.trueops@gmail.com
+
